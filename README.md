@@ -10,6 +10,7 @@
 | Quick Suffix Classification（2024-03-10）.py | 20240310 | 2024-03-10 | ✅                  | ✅                  | ✅                      | ✅                    |
 
 
-您可以通过(https://github.com/kafan-BangBangTuan/Quick-Suffix-Classification/releases)https://github.com/kafan-BangBangTuan/Quick-Suffix-Classification/releases下载最新版本
+您可以通过(https://github.com/kafan-BangBangTuan/Quick-Suffix-Classification/releases)https://github.com/kafan-BangBangTuan/Quick-Suffix-Classification/releases)下载最新版本
+
 通常，Github会将作者提供的最新版本作上标记：
 ![](https://github.com/kafan-BangBangTuan/picx-images-hosting/blob/master/00035sW2024-03-10.png)
