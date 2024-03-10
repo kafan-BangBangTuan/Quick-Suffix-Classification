@@ -12,4 +12,4 @@
 
 您可以通过(https://github.com/kafan-BangBangTuan/Quick-Suffix-Classification/releases)https://github.com/kafan-BangBangTuan/Quick-Suffix-Classification/releases下载最新版本
 通常，Github会将作者提供的最新版本作上标记：
-!(https://pic.fengshistudio.top/kafan-BangBangTuan/picx-images-hosting/blob/master/00035sW2024-03-10.png)
+![](https://pic.fengshistudio.top/kafan-BangBangTuan/picx-images-hosting/blob/master/00035sW2024-03-10.png)
