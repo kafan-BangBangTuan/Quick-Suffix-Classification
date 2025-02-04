@@ -4,9 +4,13 @@
 
 ### 更新日志（2025-02-04）
 1.全新的页面！
+
 2.修复了部分已知的Bugs
+
 3.新增处理中窗口和重复文件覆盖询问窗口
+
 4.支持多线程处理，页面更流畅
+
 
 
 您可以通过[这里](https://github.com/kafan-BangBangTuan/Quick-Suffix-Classification/releases)下载最新版本
